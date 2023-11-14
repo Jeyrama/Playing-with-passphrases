@@ -37,3 +37,5 @@ function playPass(s, n) {
     })
     .split('').reverse().join('');
 }
+
+// or
